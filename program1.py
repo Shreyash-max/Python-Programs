@@ -1,0 +1,5 @@
+a = int(input("Enter any integer :"))
+b = int(input("Enter any integer :"))
+sum = (a+b)
+print("sum is = ",sum)
+#Program to take input by the user and sum the integers by the statement (sum =)
